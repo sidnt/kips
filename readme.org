@@ -1,0 +1,3 @@
+standard sbt project
+~sbt run~
+~sbt test~
